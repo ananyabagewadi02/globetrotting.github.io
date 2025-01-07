@@ -22,23 +22,11 @@ Globe-trotting is the adventurous pursuit of exploring different cultures, lands
 
 ## Portfolio Topic
 
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
-<dt>Name</dt>
-<dd>Your Name</dd>
-<dt>SRN</dt>
-<dd>Your SRN</dd>
-<dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
-<dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
-</dl>
+Course Name: Algorithms Lab
+Course Code: 24ECSC205
+Name: Ananya Bagewadi
+SRN: 02FE23BCS108
+Course Instructor:PROF. Vaishali Parab
+University: KLE TECHNOLOGICAL UNIVERSITY
+Topic: GLOBETROTTING
 
-<br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
->
