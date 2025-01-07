@@ -17,8 +17,8 @@ Globe-trotting is the adventurous pursuit of exploring different cultures, lands
 
 
 ## 🌐 Find Me Online
-- [GitHub](
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://ananyabagewadi02.github.io/globetrotting.github.io/)
+- [LinkedIn](https://linkedin.com/in/ananya-bagewadi-b28271336)
 
 ## Portfolio Topic
 
